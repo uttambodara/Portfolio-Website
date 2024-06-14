@@ -11,7 +11,7 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 ## Demo
 ![Screenshot 2024-06-14 165014](https://github.com/uttambodara/PRODIGY_WD_04/assets/129719033/3c4b3ab1-b944-484d-b6f6-99320dce925c)
 
-
+[Live demo 👋](https://uttambodara.netlify.app/)
 
 ## Prerequisites
 
@@ -42,3 +42,8 @@ If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.co
 ## License
 
 MIT
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev) 
