@@ -37,7 +37,7 @@ git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at [LinkedIn](www.linkedin.com/in/uttam-bodra-264882267).
+If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/uttam-bodra-264882267).
 
 ## License
 
