@@ -4,7 +4,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+Personal Portfolio:
++ Created a professional portfolio website to showcase my skills, projects, and experience.
++ Designed the layout and user interface to be clean and visually appealing.
++ Included sections such as an about me page, a projects gallery, a resume, and contact information.
 
 ## Demo
 ![Screenshot 2024-06-14 165014](https://github.com/uttambodara/PRODIGY_WD_04/assets/129719033/3c4b3ab1-b944-484d-b6f6-99320dce925c)
