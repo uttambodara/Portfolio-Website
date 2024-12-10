@@ -1,8 +1,6 @@
 # Personal Portfolio :sparkling_heart:
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+
 
 + Created a professional portfolio website to showcase my skills, projects, and experience.
 + Designed the layout and user interface to be clean and visually appealing.
